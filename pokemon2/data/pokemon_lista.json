@@ -1,0 +1,424 @@
+{
+  "pokemons": [
+    {
+      "nome": "Bulbasaur",
+      "tipo": ["Grama", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Charmander",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Squirtle",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Pidgey",
+      "tipo": ["Normal", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Caterpie",
+      "tipo": ["Inseto"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Weedle",
+      "tipo": ["Inseto", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Pikachu",
+      "tipo": ["Elétrico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Rattata",
+      "tipo": ["Normal"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Spearow",
+      "tipo": ["Normal", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Ekans",
+      "tipo": ["Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Sandshrew",
+      "tipo": ["Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Mankey",
+      "tipo": ["Luta"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Vaporeon",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Jolteon",
+      "tipo": ["Elétrico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Flareon",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Pidgeotto",
+      "tipo": ["Normal", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Metapod",
+      "tipo": ["Inseto"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Kakuna",
+      "tipo": ["Inseto", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Venusaur",
+      "tipo": ["Grama", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Charizard",
+      "tipo": ["Fogo", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Blastoise",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Pidgeot",
+      "tipo": ["Normal", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Beedrill",
+      "tipo": ["Inseto", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Butterfree",
+      "tipo": ["Inseto", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Articuno",
+      "tipo": ["Gelo", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Zapdos",
+      "tipo": ["Elétrico", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Moltres",
+      "tipo": ["Fogo", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Zubat",
+      "tipo": ["Veneno", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Geodude",
+      "tipo": ["Pedra", "Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Oddish",
+      "tipo": ["Grama", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Paras",
+      "tipo": ["Inseto", "Grama"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Venonat",
+      "tipo": ["Inseto", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Diglett",
+      "tipo": ["Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Golbat",
+      "tipo": ["Veneno", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Graveler",
+      "tipo": ["Pedra", "Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Gloom",
+      "tipo": ["Grama", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Parasect",
+      "tipo": ["Inseto", "Grama"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Venomoth",
+      "tipo": ["Inseto", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Dugtrio",
+      "tipo": ["Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Alakazam",
+      "tipo": ["Psíquico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Machamp",
+      "tipo": ["Luta"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Gengar",
+      "tipo": ["Fantasma", "Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Arcanine",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Rhydon",
+      "tipo": ["Pedra", "Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Snorlax",
+      "tipo": ["Normal"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Mewtwo",
+      "tipo": ["Psíquico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Gyarados",
+      "tipo": ["Água", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Dragonite",
+      "tipo": ["Dragão", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Mew",
+      "tipo": ["Psíquico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Raikou",
+      "tipo": ["Elétrico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Entei",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Suicune",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Nidoran♀",
+      "tipo": ["Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Nidoran♂",
+      "tipo": ["Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Vulpix",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Growlithe",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Psyduck",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Nidorina",
+      "tipo": ["Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Nidorino",
+      "tipo": ["Veneno"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Ninetails",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Arcanine",
+      "tipo": ["Fogo"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Golduck",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Primeape",
+      "tipo": ["Luta"],
+      "taxa_de_captura": 0.45,
+      "raridade": "incomum"
+    },
+    {
+      "nome": "Cloyster",
+      "tipo": ["Água", "Concha"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Exeggutor",
+      "tipo": ["Grama", "Psíquico"],
+      "taxa_de_captura": 0.45,
+      "raridade": "raro"
+    },
+    {
+      "nome": "Nidoking",
+      "tipo": ["Veneno", "Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Nidoqueen",
+      "tipo": ["Veneno", "Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "epico"
+    },
+    {
+      "nome": "Groudon",
+      "tipo": ["Terra"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Kyogre",
+      "tipo": ["Água"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    },
+    {
+      "nome": "Rayquaza",
+      "tipo": ["Dragão", "Voador"],
+      "taxa_de_captura": 0.45,
+      "raridade": "lendario"
+    }
+  ]
+}

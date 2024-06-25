@@ -1,0 +1,131 @@
+{
+    "rotas": [
+      {
+        "nome": "Floresta Encantada",
+        "pokemons": {
+          "comum": [
+            "Bulbasaur",
+            "Charmander",
+            "Squirtle",
+            "Pidgey",
+            "Caterpie",
+            "Weedle"
+          ],
+          "incomum": [
+            "Pikachu",
+            "Rattata",
+            "Spearow",
+            "Ekans",
+            "Sandshrew",
+            "Mankey"
+          ],
+          "raro": [
+            "Vaporeon",
+            "Jolteon",
+            "Flareon",
+            "Pidgeotto",
+            "Metapod",
+            "Kakuna"
+          ],
+          "epico": [
+            "Venusaur",
+            "Charizard",
+            "Blastoise",
+            "Pidgeot",
+            "Beedrill",
+            "Butterfree"
+          ],
+          "lendario": [
+            "Articuno",
+            "Zapdos",
+            "Moltres"
+          ]
+        }
+      },
+      {
+        "nome": "Montanhas Sombrias",
+        "pokemons": {
+          "comum": [
+            "Zubat",
+            "Geodude",
+            "Oddish",
+            "Paras",
+            "Venonat",
+            "Diglett"
+          ],
+          "incomum": [
+            "Golbat",
+            "Graveler",
+            "Gloom",
+            "Parasect",
+            "Venomoth",
+            "Dugtrio"
+          ],
+          "raro": [
+            "Alakazam",
+            "Machamp",
+            "Gengar",
+            "Arcanine",
+            "Rhydon",
+            "Snorlax"
+          ],
+          "epico": [
+            "Mewtwo",
+            "Gyarados",
+            "Dragonite",
+            "Alakazam",
+            "Machamp",
+            "Gengar"
+          ],
+          "lendario": [
+            "Mew",
+            "Raikou",
+            "Entei",
+            "Suicune"
+          ]
+        }
+      },
+      {
+        "nome": "Deserto Ardente",
+        "pokemons": {
+          "comum": [
+            "Nidoran♀",
+            "Nidoran♂",
+            "Vulpix",
+            "Growlithe",
+            "Psyduck",
+            "Mankey"
+          ],
+          "incomum": [
+            "Nidorina",
+            "Nidorino",
+            "Ninetails",
+            "Arcanine",
+            "Golduck",
+            "Primeape"
+          ],
+          "raro": [
+            "Cloyster",
+            "Exeggutor",
+            "Vaporeon",
+            "Jolteon",
+            "Flareon",
+            "Snorlax"
+          ],
+          "epico": [
+            "Nidoking",
+            "Nidoqueen",
+            "Alakazam",
+            "Machamp",
+            "Gengar",
+            "Dragonite"
+          ],
+          "lendario": [
+            "Groudon",
+            "Kyogre",
+            "Rayquaza"
+          ]
+        }
+      }
+    ]
+  }
